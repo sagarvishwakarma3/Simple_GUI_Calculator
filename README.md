@@ -1,5 +1,4 @@
 # Simple_GUI_Calculator
-# **ReadMe: Simple GUI Calculator**
 
 ## **Overview**
 This is a **Simple GUI Calculator** application built with Python's `tkinter` module. The calculator provides basic arithmetic operations and an intuitive interface to perform calculations efficiently. It's a lightweight and user-friendly desktop application.
